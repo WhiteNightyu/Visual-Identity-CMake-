@@ -1,0 +1,8 @@
+/root/code/build/CMakeFiles/rebuild_cache.dir
+/root/code/build/CMakeFiles/edit_cache.dir
+/root/code/build/MyLib/CMakeFiles/Mylib.dir
+/root/code/build/MyLib/CMakeFiles/rebuild_cache.dir
+/root/code/build/MyLib/CMakeFiles/edit_cache.dir
+/root/code/build/src/CMakeFiles/work.dir
+/root/code/build/src/CMakeFiles/rebuild_cache.dir
+/root/code/build/src/CMakeFiles/edit_cache.dir
